@@ -1,2 +1,2 @@
 # devops-20220813
-1st repository
+Creating a new repository to work with Git and Github
